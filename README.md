@@ -3,7 +3,7 @@
 
 ***Limited time promotion: Bright Data is matching your first deposit, up to $500!***
 
-Lists of packages, services and manuals related to web scraping.
+The Awesome Web Scraping by Bright Data is a collection of resources, tools, and guides for efficient web scraping. It includes libraries, proxy integration, CAPTCHA solutions, automation tips, and free dataset samples across multiple programming languages, helping you tackle web scraping challenges with ease.
 
 ## Topics
 
