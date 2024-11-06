@@ -66,4 +66,4 @@ Skip scraping completely and get the data you need. Download 1000+ records for f
 * [The ultimate guide to Python & ChatGPT data analysis](https://www.youtube.com/embed/eISqvRLfzTg)
 * [Build a fullstack SEO rank tracker app with Next.js and Bright Data](https://www.youtube.com/embed/3oy8Mqc8zec)
 
-**For more web scraping videos, visit our [Web Data Masterclass](https://brightdata.com/web-data-masterclass)
+**For more web scraping videos, visit our [Web Data Masterclass](https://brightdata.com/web-data-masterclass)**
