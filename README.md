@@ -17,6 +17,7 @@ The Awesome Web Scraping by Bright Data is a collection of resources, tools, and
 * [Perl](https://github.com/luminati-io/Awesome-Web-Scraping/blob/main/perl.md) - A collecton of Perl tools and libraries for web scraping, data parsing, and automation, with tools for HTTP clients, proxy integration, CAPTCHA solving, and data export.
 * [Java](https://github.com/luminati-io/Awesome-Web-Scraping/blob/main/java.md) - A collection of Java tools and libraries for web scraping, parsing, and automation, including HTTP clients, proxy integration, CAPTCHA solving, data processing, and scheduling.
 * [Web Scraping Guides, Tips, and Tricks](https://github.com/luminati-io/Awesome-Web-Scraping/blob/main/guides.md) - A comprehensive document of web scraping guides, tips, and tricks for efficiently navigating web scraping challenges, handling anti-bot measures, optimizing proxy use, and much more.
+* [Recommended headless browsers](https://github.com/luminati-io/Awesome-Web-Scraping/blob/main/headless-browsers.md) - A list of the best headless browsers for web scraping. 
 
 
 ## Recommended CAPTCHA Solving Services
