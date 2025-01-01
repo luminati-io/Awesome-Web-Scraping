@@ -1,5 +1,6 @@
 # Awesome Web Scraping by Bright Data
-[![Promo](https://github.com/luminati-io/Amazon-scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/?promo=github15) 
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com)
 
 ***Limited time promotion: Bright Data is matching your first deposit, up to $500!***
 
