@@ -1,9 +1,3 @@
----
-title: .NET Web Scraping
-tags: [Bright Data]
-
----
-
 # .NET Web Scraping
 
 This document contains a list of libraries and resources for web scraping in .NET languages, including C#, F#, and Visual Basic.
